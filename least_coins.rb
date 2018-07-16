@@ -2,7 +2,7 @@
 
 cents = 0 
 def least_coins(cents)
-  quarters = 1
+  quarters = 0 
   dimes = 0 
   nickels = 0 
   pennies = 0 
